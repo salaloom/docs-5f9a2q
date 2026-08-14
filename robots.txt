@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-e1la78.nuansa138win.cfd/sitemap.xml
